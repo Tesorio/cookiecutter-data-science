@@ -30,4 +30,6 @@ Module Organization
         ├── data.py        <- Download or generate data
         ├── features.py    <- Turn raw data into features for modeling
         ├── models.py      <- Train and use models
+        ├── blueprint.py   <- Define routes to extend the webapp, for Flask
+        ├── tasks.py       <- Define workflow tasks, for Luigi
         └── visualize.py   <- Create exploratory and results oriented visualizations
