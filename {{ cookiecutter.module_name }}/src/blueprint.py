@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# third party
 from flask import Blueprint
 
 blueprint = Blueprint('{{ cookiecutter.module_name }}', __name__,
