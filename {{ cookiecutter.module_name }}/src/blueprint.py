@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # third party
 from flask import Blueprint
 
