@@ -1,2 +1,2 @@
 test:
-	$(error No tests configured!)
+	@echo No tests configured!
